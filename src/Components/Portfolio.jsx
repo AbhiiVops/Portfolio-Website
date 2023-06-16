@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Say Goodbye to Messy Deployments: How Docker and Keploy Revolutionize API Testing🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Learn about the importance of comprehensive API testing, collaboration between developers and testers, and valuable insights on best practices for API testing and deployment. Whether you're a developer, tester, or API enthusiast, this video will provide you with valuable knowledge to enhance your API projects.",
+    url: "https://www.youtube.com/watch?v=ji8reHQvGRw&t=272s",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Complete Git and GitHub Tutorial",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This tutorial will help you with using Git & GitHub for your personal projects and contributing to Open Source, with no prerequisites, in an easy to understand language. It starts from the very basics of Git & GitHub, covering all the essential commands, including concepts such as branching, pull requests, forking, etc. We also cover other concepts such as squashing, resolving merge conflicts, keeping your code in sync, and more.",
+    url: "https://www.youtube.com/watch?v=ULFi6H3mKTA&t=508s",
   },
   {
-    title: "My Resume Site",
+    title: "Useful Resources to Master DevOps: A Comprehensive Guide",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      " In this blog, we will be discussing the best resources to learn and master DevOps, from beginner to pro level. ",
+    url: "https://abhiivops.hashnode.dev/useful-resources-to-master-devops-a-comprehensive-guide",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Exploring the Software Development Lifecycle (SDLC)",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Understanding the stages and importance of SDLC in software development",
+    url: "https://abhiivops.hashnode.dev/exploring-the-software-development-lifecycle-sdlc",
   },
 ];
 
